@@ -1,1 +1,1 @@
-# minimum-number-of-jumps
+# Minimum Number of Jumps
